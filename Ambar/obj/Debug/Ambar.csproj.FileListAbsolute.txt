@@ -1,0 +1,14 @@
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\ResolveAssemblyReference.cache
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.Properties.Resources.resources
+D:\EMSEY\AMBAR\Ambar\Ambar\bin\Debug\Ambar.exe
+D:\EMSEY\AMBAR\Ambar\Ambar\bin\Debug\Ambar.pdb
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.exe
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.pdb
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.AnaForm.resources
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.Login.resources
+D:\EMSEY\AMBAR\Ambar\Ambar\bin\Debug\Ambar.exe.config
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.Musteri.resources
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.csproj.GenerateResource.Cache
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.Irsaliye.resources
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.Irsaliyeler.resources
+D:\EMSEY\AMBAR\Ambar\Ambar\obj\Debug\Ambar.Musteriler.resources

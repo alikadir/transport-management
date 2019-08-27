@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ambar", "Ambar\Ambar.csproj", "{F537D18E-00A6-4A2B-A67F-1324D108E0C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AKBclass", "AKBclass\AKBclass.csproj", "{89071952-30D4-4A03-8B18-C3784CB63077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F537D18E-00A6-4A2B-A67F-1324D108E0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F537D18E-00A6-4A2B-A67F-1324D108E0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F537D18E-00A6-4A2B-A67F-1324D108E0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F537D18E-00A6-4A2B-A67F-1324D108E0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89071952-30D4-4A03-8B18-C3784CB63077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89071952-30D4-4A03-8B18-C3784CB63077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89071952-30D4-4A03-8B18-C3784CB63077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89071952-30D4-4A03-8B18-C3784CB63077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BB11E9-CF05-4618-8D50-540AB262A9F1}
+	EndGlobalSection
+EndGlobal
